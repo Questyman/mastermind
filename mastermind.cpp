@@ -1,10 +1,3 @@
-/* 
-Name: Michael Gunter
-Course: CGS 3406
-Assignment: Assignment #3
-About this Project: A fun mini-game
-*/
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
